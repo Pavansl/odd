@@ -3,5 +3,5 @@ def main():
     result = odd_or_even(num)
     print(f"{num} is {result}")
 
-if __name__="__main__":
+if __name__=="__main__":
     main()
