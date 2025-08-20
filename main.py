@@ -1,3 +1,5 @@
+
+
 def main():
     num = int(input("Enter the number to be check"))
     result = odd_or_even(num)
